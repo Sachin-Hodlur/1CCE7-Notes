@@ -1,0 +1,71 @@
+				Java Syllabus
+				=============
+Section-1
+---------
+1>  What is Software
+2>  Types Of Software
+3>  3 Layers [or] Componets Of Software
+4>  What is Java
+5>  Features Of Java
+6>  Java Scope in IT industry
+7>  Java Programming Plateforms
+8>  Java First Program
+9>  Java Software Installation
+10> Java Program Execution Flow
+11> Java Printing Statements
+12> Variables
+13> Methods
+14> Operators
+15> Control Statements
+16> Looping Statements
+17> Readymade classes in java
+18> Array
+19> Blocks
+20> Constructor
+
+Section-2
+---------
+1>  Introduction to Object Oriented Programming
+2>  OOP principals
+3>  Inheritence
+4>  Compostion
+5>  Access Specifier
+6>  Encasulation
+7>  Single-Ton Class
+8>  Java-Bean Class
+9>  Casting
+10> Polymorphism
+11> Abstract Class
+12> Interface
+13> Functional Interface
+14> Lambda Expression
+15> Abstraction
+
+Section-3
+---------
+1>  Introduction To Java API
+2>  Object Class
+3>  String Class
+4>  Exception Handling
+5>  Threads
+6>  Collection
+7>  Wrapper Class
+8>  File Handling
+
+Section-4
+---------
+[Programming]
+-------------
+1> Pattern Programming
+2> Logical Programming 
+3> Array Programming
+4> String Programming
+
+Extra
+-----
+1> Resume Buliding Class
+2> Interview Tips
+3> Digital Profile Creation
+4> How to work in company
+
+
